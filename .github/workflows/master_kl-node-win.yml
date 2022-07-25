@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'KL-NODE-WIN'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_7611496b0c93400cae5192fb072f19ab }}
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1704FE9273494CF892074EAED1019127 }}
         package: .
